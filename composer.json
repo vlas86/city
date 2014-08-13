@@ -1,0 +1,18 @@
+{
+    "name": "vlas/phpden",
+    "description": "myworkspace",
+    "authors": [
+        {
+            "name": "Vlas",
+            "email": "vlas86@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+	"autoload":{
+	"psr-4":{"vlas\\phpden\\":"src/"}
+	}
+	
+}
